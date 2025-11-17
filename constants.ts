@@ -6,7 +6,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 1,
     name: 'Cupcake Chocolate',
     price: 8.50,
-    image: 'https://picsum.photos/id/25/200/200',
+    image: 'https://saalimentos.com.br/wp-content/uploads/2023/11/222250.jpg',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Chocolate em Pó 50%', 'Ovos', 'Leite', 'Óleo Vegetal', 'Gotas de Chocolate'],
     reviews: [
@@ -18,7 +18,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 2,
     name: 'Cupcake Nutella',
     price: 9.00,
-    image: 'https://picsum.photos/id/102/200/200',
+    image: 'https://www.bourkies.com.au/cdn/shop/files/Bourkies-bakehouse-cupcakes-nutella-cupcake-sweet-treat-woodend-bakery-cakes.jpg?v=1725189767&width=1946',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Ovos', 'Leite', 'Nutella', 'Avelãs Trituradas'],
     reviews: [
@@ -30,7 +30,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 3,
     name: 'Cupcake Red Velvet',
     price: 9.50,
-    image: 'https://picsum.photos/id/326/200/200',
+    image: 'https://cakesbymk.com/wp-content/uploads/2022/12/Template-Size-for-Blog-Photos-13.jpg',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Buttermilk', 'Corante Vermelho', 'Vinagre', 'Cream Cheese Frosting'],
     reviews: [
@@ -42,7 +42,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 4,
     name: 'Cupcake Ninho',
     price: 8.75,
-    image: 'https://picsum.photos/id/367/200/200',
+    image: 'https://acdn-us.mitiendanube.com/stores/124/083/products/cupcakes-cupcakedecorado1-4a78e9cedf0a5c783816139237197788-480-0.webp',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Ovos', 'Leite Ninho', 'Leite Condensado', 'Creme de Leite'],
     reviews: [
@@ -54,7 +54,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 5,
     name: 'Cupcake Limão',
     price: 8.50,
-    image: 'https://picsum.photos/id/405/200/200',
+    image: 'https://www.sabornamesa.com.br/media/k2/items/cache/3abb66d58aa91d2b7b16f08ee38a95c0_XL.jpg',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Ovos', 'Suco de Limão', 'Raspas de Limão', 'Merengue Suíço'],
     reviews: [

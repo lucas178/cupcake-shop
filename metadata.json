@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Cupcake Shop",
+  "name": "Cupcake Shop",
   "description": "A simple and elegant mobile application interface for a cupcake shop, allowing users to browse flavors, manage their profile, place orders, and view past purchases.",
   "requestFramePermissions": [
     "camera"
