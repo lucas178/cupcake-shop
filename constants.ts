@@ -6,7 +6,7 @@ export const CUPCAKE_FLAVORS: Cupcake[] = [
     id: 1,
     name: 'Cupcake Chocolate',
     price: 8.50,
-    image: 'https://saalimentos.com.br/wp-content/uploads/2023/11/222250.jpg',
+    image: 'https://s2-casavogue.glbimg.com/mNrNrx8_XLOvXoQPEqaYTWvZYuY=/0x0:2953x1969/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2022/K/A/gEAHBlTbe2PpCTIcucuw/cupcake-de-ganache-foto-divulgacao.jpg',
     weight: 100,
     ingredients: ['Farinha de Trigo', 'Açúcar', 'Chocolate em Pó 50%', 'Ovos', 'Leite', 'Óleo Vegetal', 'Gotas de Chocolate'],
     reviews: [
